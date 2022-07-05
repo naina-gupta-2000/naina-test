@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'naina-test'
           slot-name: 'naina-staging-slot'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A764131172614119B4AF91B01B8A0B62 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C4E23F416731403AB37D7FB4FB19F822 }}
